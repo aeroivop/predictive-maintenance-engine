@@ -1,5 +1,6 @@
 # predictive-maintenance-engine
 Este proyecto implementa un sistema de Mantenimiento Predictivo Universal utilizando Machine Learning (XGBoost) para estimar la Vida Útil Restante (RUL - Remaining Useful Life) de motores aeronáuticos turbofán, basándose en la telemetría desclasificada del dataset CMAPSS de la NASA.
+
 -El Problema de Ingeniería
 Predecir cuándo va a fallar un motor en vuelo no es solo un problema matemático, sino físico. Los modelos tradicionales fallan al enfrentarse a la telemetría real debido a dos grandes retos:
 
